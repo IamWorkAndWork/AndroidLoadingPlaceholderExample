@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FiftyShadesOf/FiftyShadesOf.iml" filepath="$PROJECT_DIR$/.idea/modules/FiftyShadesOf/FiftyShadesOf.iml" group="My Application/FiftyShadesOf" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/My_Application.iml" filepath="$PROJECT_DIR$/.idea/modules/My_Application.iml" group="My_Application" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/facebook_shimmer_android/facebook_shimmer_android.iml" filepath="$PROJECT_DIR$/.idea/modules/facebook_shimmer_android/facebook_shimmer_android.iml" group="My Application/facebook_shimmer_android" />
+    </modules>
+  </component>
+</project>
